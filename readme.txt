@@ -1,2 +1,3 @@
 hello i am gly
-who are you
+i am fine thank you
+and you？
